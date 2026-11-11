@@ -28,8 +28,5 @@ Most of my day job lives in private repos, so the write-ups are on my site:
 
 A UDM Pro, a Beelink running Proxmox, and an Unraid box I call the big rig. Media, local AI (Ollama and three Hermes agents), Home Assistant, Frigate, and game servers when the group gets back into Minecraft. The whole rack is at [nalyd.dev/lab](https://nalyd.dev/lab/).
 
-### off the clock
-
-CS2 and Chivalry 2 on PC · a co-op motel tycoon in Unity · J. Cole on repeat · snowboarding in the Colorado mountains · four cats and two dogs · back in school for cybersecurity at WGU
 
 <a href="https://nalyd.dev"><img src="https://nalyd.dev/buttons/nalyd.gif" width="88" height="31" alt="nalyd.dev"></a> · [sign my guestbook](https://nalyd.dev/guestbook/)
